@@ -1,15 +1,17 @@
-# template_web_mobile_tablet
+# template_web_mobile_tablet Material Design
 
-A new Flutter project.
+Projeto coma  ideia de ter menu lateral, e cards para 3 dispositivos (web, mobile e tablet) porém o web dependendo da tela estoura elementos e ainda não deixei responsivo.
+<br>
+Os cards são bem feitos com Material Design e podem ser bem reaproveitados
+## Template Web/Tablet/Mobile
 
-## Getting Started
+<ul>
+   <li>![Print home](https://user-images.githubusercontent.com/63310837/132149675-3ba48d69-6e13-4a4b-8f58-6ac9d8b8c6f2.png)</li>
+   <li>![Print Side bar](https://user-images.githubusercontent.com/63310837/132149679-7bd68def-3f86-482c-9abc-804c85ef67f5.png)</li>
+   <li>![Print Email](https://user-images.githubusercontent.com/63310837/132149680-bbb66a55-efd7-46fa-b9fa-9fc8a056b079.png)</li>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
