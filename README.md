@@ -3,7 +3,6 @@
 Projeto coma  ideia de ter menu lateral, e cards para 3 dispositivos (web, mobile e tablet) porém o web dependendo da tela estoura elementos e ainda não deixei responsivo.
 <br>
 Os cards são bem feitos com Material Design e podem ser bem reaproveitados
-## Template Web/Tablet/Mobile
 
 
       ![Print home](https://user-images.githubusercontent.com/63310837/132149675-3ba48d69-6e13-4a4b-8f58-6ac9d8b8c6f2.png)
@@ -12,6 +11,8 @@ Os cards são bem feitos com Material Design e podem ser bem reaproveitados
  
       ![Print Email](https://user-images.githubusercontent.com/63310837/132149680-bbb66a55-efd7-46fa-b9fa-9fc8a056b079.png)
  
+## Template Web/Tablet/Mobile
+
 
 
 
